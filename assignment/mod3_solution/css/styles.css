@@ -1,0 +1,72 @@
+body{
+	font-size:16px;
+	color: #fff;
+	background-color: #61122f;
+	font-family: 'Oxygen', sans-serif;
+	padding-top: 70px;
+}
+
+#header-nav {
+	background-color: #f6b319;
+	opacity: .9;
+	border-radius: 0;
+	border: 0;
+}
+
+.navbar-brand {
+	padding-top: 25px;
+}
+
+.navbar-brand h1 {
+	font-family: 'Lora', serif;
+	font-size: 2em;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .2;
+}
+
+h2{
+	font-size: 1.6em;
+	margin-bottom: 20px;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+
+#nav-list li h3{
+	font-size: 1.2em;
+	text-align: center;
+}
+
+#nav-list li h3 a:hover, #nav-list li h3 a:focus{
+	text-decoration: none;
+}
+
+.container .row{
+	height: 1500px;
+	border: 1px solid #61122f;
+}
+
+#top{
+	position: absolute;
+	top: 0px;
+}
+
+.food-description{
+	background-color: gray;
+	padding: 1px;
+	margin-bottom: 25px;
+}
+
+.food-description h3{
+	position: relative;
+	top: -6px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.food-description p{
+	margin-top: 10px;
+	padding-left: 5px;
+}
